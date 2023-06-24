@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Malibu54<br>👀 I’m interested in programming and cybersecurity<br>🌱 I’m currently learning Responsive Web design and UX/UI<br>💞️ I’m looking to collaborate on Responsive web design<br>
+👋 Hi, I’m Oriana<br>👀 I’m interested in programming and cybersecurity<br>🌱 I’m currently learning Responsive Web design and UX/UI<br>💞️ I’m looking to collaborate on Responsive web design<br>👩‍💻Functional Analyst - UX/UI Designer 💜✨<br>👩‍🏫 Tutor at Coderhouse     
 
 
 ## 🌐 Socials:
