@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oriana<br>👀 I’m interested in programming and cybersecurity<br>🌱 I’m currently learning Backend Development & DataBase <br>💞️ I’m looking to collaborate on Responsive web design<br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     
+👋 Hi, I’m Oriana<br>👀 I’m interested in programming and cybersecurity<br>🌱 I’m currently learning Backend Development & DataBase advanced<br>💞️ I’m looking to collaborate on Responsive web design<br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     
 
 
 ## 🌐 Socials:
