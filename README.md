@@ -1,3 +1,8 @@
+<p align="center">
+    <img alt="Banner" src="assets/github-header-image.png" width="100%"></a>
+</p>
+
+
 # 💫 About Me:
 👋 Hi, I’m Oriana<br><br>👀 I’m interested in programming and cybersecurity<br><br>🌱 I’m currently learning Backend Development & DataBase advanced<br><br>💞️ I’m looking to collaborate on Responsive web design<br><br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br><br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     
 
