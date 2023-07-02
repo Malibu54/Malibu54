@@ -1,5 +1,5 @@
-<p align="center" border-radious= 8px>
-    <img alt="Banner" src="Github-Banner-2.png" width="100%"></a>
+<p align="center" border>
+    <img alt="Banner" src="Github-Banner-2.png" width="100%" border-radious="8px"></a>
 </p>
 
 
