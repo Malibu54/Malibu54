@@ -1,4 +1,4 @@
-<p align="center" border-radious= "8px">
+<p align="center" border-radious= 8px>
     <img alt="Banner" src="Github-Banner-2.png" width="100%"></a>
 </p>
 
