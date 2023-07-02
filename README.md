@@ -1,5 +1,5 @@
 <p align="center" border>
-   <kbd><img alt="Banner" src="Github-Banner-2.png" width="100%" ></kbd>
+   <kbd><img alt="Banner" src="Github-Banner-2.png" width="100%"></kbd>
 </p>
 
 
