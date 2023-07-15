@@ -4,7 +4,8 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Oriana<br><br>👀 I’m interested in programming and cybersecurity<br><br>🌱 I’m currently learning Backend Development & DataBase advanced<br><br>💞️ I’m looking to collaborate on Responsive web design<br><br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br><br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     
+<p align="center">
+👋 Hi, I’m Oriana<br><br>👀 I’m interested in programming and cybersecurity<br><br>🌱 I’m currently learning Backend Development & DataBase advanced<br><br>💞️ I’m looking to collaborate on Responsive web design<br><br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br><br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     </p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/malibu54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oriianasooledad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orianasoledad) 
@@ -22,8 +23,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center">
+
 --- 
-[![](https://visitcount.itsvg.in/api?id=malibu54&icon=9&color=11)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=malibu54&icon=9&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
