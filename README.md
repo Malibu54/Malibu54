@@ -22,6 +22,8 @@
 
 
 ### ✍️ Random Dev Quote
+
+<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
