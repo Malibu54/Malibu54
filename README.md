@@ -24,8 +24,6 @@
 ### ✍️ Random Dev Quote
 
 <p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 --- 
 [![](https://visitcount.itsvg.in/api?id=malibu54&icon=9&color=11)](https://visitcount.itsvg.in)
