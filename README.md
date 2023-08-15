@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <p align="center">
-👋 Hi, I’m Oriana<br><br>👀 I’m interested in programming and cybersecurity<br><br>🌱 I’m currently learning Backend Development & DataBase advanced<br><br>💞️ I’m looking to collaborate on Responsive web design<br><br>👩‍💻 Functional Analyst - UX/UI Designer 💜✨<br><br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     </p>
+👋 Hi, I’m Oriana<br><br>👀 I’m interested in programming and cybersecurity<br><br>🌱 I’m currently learning Backend Development & DataBase advanced<br><br>💞️ I’m looking to collaborate on Responsive web design<br><br>👩‍💻 Web Developer Designer 💜✨<br><br>👩‍🏫 Tutor of Data processing on Microsoft Excel and Business Analytics at Coderhouse     </p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/malibu54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oriianasooledad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orianasoledad) 
