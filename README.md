@@ -28,4 +28,6 @@
 --- 
 [![](https://visitcount.itsvg.in/api?id=malibu54&icon=9&color=11)](https://visitcount.itsvg.in)
 
+<img align="center" alt="Github" height="40" width="50" src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://raw.githubusercontent.com/simple-icons/simple-icons/624d3df888c0e988a0adada2873e647715769b92/icons/github.svg)">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
