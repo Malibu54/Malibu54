@@ -6,13 +6,12 @@
 # 💫 About Me:
 <p align="center">
   👋 Hi! I'm Oriana<br><br>
+  📊 Project Manager at Neuromna<br><br>
   👀 Passionate about programming and cybersecurity<br><br>
+  📚 Certified in ISO Standards and Neuromarketing
   🌱 Currently training in FullStack Development and Cybersecurity<br><br>
   👩‍💻 iOS QA Engineer 📱✨<br><br>
   👩‍🏫 Business Analytics Tutor | Excel Data Processing | Data Science<br><br>
-  🤖 RPA Developer<br><br>
-  📊 Project Manager at Neuromna<br><br>
-  📚 Certified in ISO Standards and Neuromarketing
 </p>
 
 
