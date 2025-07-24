@@ -6,17 +6,14 @@
 # 💫 About Me:
 <p align="center">
   👋 Hi! I'm Oriana<br><br>
-  📊 Project Manager at Neuromna<br><br>
   👀 Passionate about programming and cybersecurity<br><br>
   📚 Certified in ISO Standards and Neuromarketing<br><br>
-  🌱 Currently training in FullStack Development and Cybersecurity<br><br>
-  👩‍💻 iOS QA Engineer 📱✨<br><br>
   👩‍🏫 Business Analytics Tutor | Excel Data Processing | Data Science<br><br>
 </p>
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/malibu54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oriianasooledad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orianasoledad) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/malibu54) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orianasoledad) 
 
 # 💻 Tech Stack:
 
