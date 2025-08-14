@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 <p align="center">
-👋 Hi! I'm Oriana
-🚀 Business Analyst & Developer | Power Platform Certified (PL-200)
-💻 JavaScript • Python • Power BI • AI Integration
-📊 Business Analytics Tutor | Process Automation Specialist
-🔐 Cybersecurity & ISO Standards | 13+ Web Projects
+   👋 Hi! I'm Oriana <br>
+   🚀 Business Analyst & Developer | Power Platform Certified (PL-200) <br>
+   💻 JavaScript • Python • Power BI • AI Integration <br>
+   📊 Business Analytics Tutor | Process Automation Specialist <br>
+   🔐 Cybersecurity & ISO Standards | 13+ Web Projects <br>
 </p>
 
 
