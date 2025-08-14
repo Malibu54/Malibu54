@@ -9,7 +9,7 @@
 🚀 Full-Stack Developer | Business Analyst | Data Scientist <br>
 💻 JavaScript, Python, HTML/CSS | Power Platform Certified (PL-200) <br>
 🤖 AI Integration & Process Automation Specialist <br>
-📊 Business Analytics Tutor | Excel & Power BI Expert <br>
+📊 Business Analytics Tutor | Power BI | Excel Expert <br>
 🔐 Cybersecurity Enthusiast | ISO Standards Certified <br>
 📚 Neuromarketing & Data Science Practitioner <br>
 </p>
