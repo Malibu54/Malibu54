@@ -5,10 +5,11 @@
 
 # 💫 About Me:
 <p align="center">
-  👋 Hi! I'm Oriana<br><br>
-  👀 Passionate about programming and cybersecurity<br><br>
-  📚 Certified in ISO Standards and Neuromarketing<br><br>
-  👩‍🏫 Business Analytics Tutor | Excel Data Processing | Data Science<br><br>
+👋 Hi! I'm Oriana
+🚀 Business Analyst & Developer | Power Platform Certified (PL-200)
+💻 JavaScript • Python • Power BI • AI Integration
+📊 Business Analytics Tutor | Process Automation Specialist
+🔐 Cybersecurity & ISO Standards | 13+ Web Projects
 </p>
 
 
