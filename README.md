@@ -6,8 +6,11 @@
   <a href="https://www.linkedin.com/in/orianasoledad/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white">
   </a>
+     <a href="https://orianasoledadg.netlify.app/">
+       <img src="https://img.shields.io/badge/-Portfolio-violet?logo=linkedin&logoColor=white">
+  </a>
   <a href="https://behance.net/malibu54">
-    <img src="https://img.shields.io/badge/-Behance-violet?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-Behance-blue?logo=linkedin&logoColor=white">
   </a>
   <br>
   <a href="https://github.com/malibu54">
