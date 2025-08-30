@@ -42,7 +42,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
   <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" width="45px">
-  <img src="https://skillicons.dev/icons?i=git,python,html,css,javascript,react,iOS,Windows,SQL">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-pandas-icon-1901x2048-oulkqypt.png" width="45px">
+  <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,iOS,Windows,SQL">
   <img width=45px src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
 </p>
 
