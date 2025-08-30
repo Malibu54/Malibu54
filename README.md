@@ -17,7 +17,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=malibu54&cc=013&tc=fff&ic=0bf&bc=013" alt="my-profile">
   </a>
 <<picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Malibu54/Malibu54/refs/heads/main/github-user-contribution-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Malibu54/Malibu54/refs/heads/main/github-user-contribution-dark.svg">
   </picture>
 </p>
 
