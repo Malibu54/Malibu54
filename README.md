@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white">
   </a>
   <a href="https://behance.net/malibu54">
-    [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]
+    <img src="https://img.shields.io/badge/-Behance-blue?logo=linkedin&logoColor=white">
   </a>
   <br>
   <a href="https://github.com/malibu54">
