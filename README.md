@@ -6,11 +6,8 @@
   <a href="https://www.linkedin.com/in/orianasoledad/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://devpost.com/malibu54">
-    <img src="https://img.shields.io/badge/-Devpost-white?logo=devpost&logoColor=white&labelColor=darkslategray&color=darkslategray">
-  </a>
-  <a href="https://huggingface.co/malibu54">
-    <img src="https://img.shields.io/badge/-Huggingface-white?labelColor=yellow&color=yellow">
+  <a href="https://behance.net/malibu54">
+    [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]
   </a>
   <br>
   <a href="https://github.com/malibu54">
