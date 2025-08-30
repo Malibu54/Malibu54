@@ -1,39 +1,52 @@
-<p align="center" border>
-   <kbd><img alt="Banner" src="Github-Banner-2.png" width="100%"></kbd>
-</p>
-
-
-# 💫 About Me:
 <p align="center">
-👋 Hi! I'm Oriana <br>
-🚀 Full-Stack Developer | Business Analyst | Data Scientist <br>
-💻 JavaScript, Python, HTML/CSS | Power Platform Certified (PL-200) <br>
-🤖 AI Integration & Process Automation Specialist <br>
-📊 Business Analytics Tutor | Power BI | Excel Expert <br>
-🔐 Cybersecurity Enthusiast | ISO Standards Certified <br>
-📚 Neuromarketing & Data Science Practitioner <br>
+  <a href="https://github.com/malibu54">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&multiline=true&random=false&width=550&height=130&lines=Oriana+Galindez;Student+at+Universidad+de+la+Marina+Mercante" alt="Typing SVG">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/orianasoledad/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://devpost.com/malibu54">
+    <img src="https://img.shields.io/badge/-Devpost-white?logo=devpost&logoColor=white&labelColor=darkslategray&color=darkslategray">
+  </a>
+  <a href="https://huggingface.co/malibu54">
+    <img src="https://img.shields.io/badge/-Huggingface-white?labelColor=yellow&color=yellow">
+  </a>
+  <br>
+  <a href="https://github.com/malibu54">
+    <img src="https://github-stats-alpha.vercel.app/api?username=malibu54&cc=013&tc=fff&ic=0bf&bc=013" alt="my-profile">
+  </a>
+  <picture>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/malibu54/malibu54/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/malibu54) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orianasoledad) 
-
-# 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
-
-
-# 📊 GitHub Stats:
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malibu54&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></p><br/>
-<p align="center"><img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=malibu54&theme=dark&hide_border=false"/></p><br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malibu54&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+* 🚀 Full-Stack Developer | Business Analyst | Data Scientist <br>
+* 💻 JavaScript, Python, HTML/CSS | Power Platform Certified (PL-200) <br>
+* 🤖 AI Integration & Process Automation Specialist <br>
+* 📊 Business Analytics Tutor | Power BI | Excel Expert <br>
+* 🔐 Cybersecurity Enthusiast | ISO Standards Certified <br>
+* 📚 Neuromarketing & Data Science Practitioner <br>
 
 
-### ✍️ Random Dev Quote
+<hr>
 
-<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malibu54&theme=algolia">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malibu54&theme=algolia">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malibu54&theme=algolia">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malibu54&show_icons=true&theme=radical">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=malibu54&label=Profile%20views&color=0e75b6&style=flat" alt="malibu54" /> </p>
 
---- 
-[![](https://visitcount.itsvg.in/api?id=malibu54&icon=9&color=11)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" width="45px">
+  <img src="https://skillicons.dev/icons?i=git,pytorch,opencv,c,cpp,linux,docker,latex,arduino">
+  <img width=45px src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Pikurrot&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></p>
