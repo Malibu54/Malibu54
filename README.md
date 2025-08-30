@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/malibu54">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Oriana+Galindez+Business+Process+Expert+%7C+Technical+Product+Manager+%7C+Functional+Analyst" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Oriana+Galindez+;Business+Process+Expert+;Technical+Product+Manager;Functional+Analyst" alt="Typing SVG" /></a>
   </a>
   <br>
   <a href="https://www.linkedin.com/in/orianasoledad/">
