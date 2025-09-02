@@ -50,6 +50,7 @@
   <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=figma">
   <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=apple">
   <img src="https://skillicons.dev/icons?i=linux">
   
 </p>
