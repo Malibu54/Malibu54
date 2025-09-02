@@ -44,12 +44,21 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
+  
   <img width=45px src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
   <img src="https://skillicons.dev/icons?i=git">
   <img src="https://skillicons.dev/icons?i=html">
   <img src="https://skillicons.dev/icons?i=css">
+  <img src="https://skillicons.dev/icons?i=bootstrap">
+  <img src="https://skillicons.dev/icons?i=tailwind">
   <img src="https://skillicons.dev/icons?i=figma">
   <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=netlify">
+  <img src="https://skillicons.dev/icons?i=ai">
+  <img src="https://skillicons.dev/icons?i=git">
+  <img src="https://skillicons.dev/icons?i=bash">
+  <img src="https://skillicons.dev/icons?i=powershell">
+  <img src="https://skillicons.dev/icons?i=windows">
   <img src="https://skillicons.dev/icons?i=apple">
   <img src="https://skillicons.dev/icons?i=linux">
   
