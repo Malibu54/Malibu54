@@ -44,6 +44,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
+  <img src="https://skillicons.dev/icons?i=vba">
   <img width=45px src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
   <img src="https://skillicons.dev/icons?i=git">
   <img src="https://skillicons.dev/icons?i=html">
