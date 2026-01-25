@@ -35,7 +35,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malibu54&show_icons=true&theme=radical">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malibu54&label=Profile%20views&color=0e75b6&style=flat" alt="malibu54" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=malibu54&label=Profile%20views&color=0e75b6&style=flat" alt="malibu54" /> 
+</p>
+
+<div align="center"> 
+  
+ ![snake gif](https://github.com/malibu54/malibu54/blob/output/github-snake-dark.svg)
+
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
